@@ -3,7 +3,7 @@ This project showcases Linear and Ridge Regression for predicting house prices a
 ## Technlogies used
 Python, scikit-learn, numpy, pandas, matplotlib
 ## Features
-Linear and Ridge Regression: Predicts house prices from California Housing data.
-K-Nearest Neighbors: Classifies Iris species with decision boundaries and confusion matrix evaluation.
+- Linear and Ridge Regression: Predicts house prices from California Housing data.
+- K-Nearest Neighbors: Classifies Iris species with decision boundaries and confusion matrix evaluation.
 
 
